@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+LIVE SITE URL: https://rest-countries-paienobe.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
